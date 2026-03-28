@@ -1,6 +1,7 @@
 # Privacy-Shield
 
 📷 Preview
+
 <img width="504" height="333" alt="image" src="https://github.com/user-attachments/assets/494d7ed8-875f-4fbd-a28f-0e42d44c999d" />
 
 

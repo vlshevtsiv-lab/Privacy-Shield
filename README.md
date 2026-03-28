@@ -18,7 +18,7 @@ Automatically detects and blurs the active window.
 Modern dark-themed interface.
 📌 System Tray Support
 Run in the background and control from tray.
-
+ 
 🧠 How It Works
 Detects the currently active window
 Takes a screenshot of that window

@@ -5,6 +5,10 @@
 <img width="504" height="333" alt="image" src="https://github.com/user-attachments/assets/494d7ed8-875f-4fbd-a28f-0e42d44c999d" />
 
 
+<img width="1915" height="1440" alt="Screenshot 2026-04-04 103509" src="https://github.com/user-attachments/assets/d0ab310a-8ae6-42df-814e-9ab3264a1228" />
+
+
+
 🚀 Features
 
 🔥 Instant Blur Overlay
